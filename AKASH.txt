@@ -1,0 +1,5 @@
+Step1- pip install django
+       python-m pip install --upgrade pip (incase upgrade pip)
+     - django-admin startproject infosys
+       python manage.py startapp employee
+     - register-infosys-setting.py- 'employee'
